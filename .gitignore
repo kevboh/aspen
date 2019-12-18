@@ -13,6 +13,7 @@ node_modules/
 # dotenv environment variables files
 .env
 .env*
+!.env.example
 
 # Logs
 logs
